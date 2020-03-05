@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>626df3175333230030c3ddeeff7b122c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field>tree_root</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-01 01:19:34</sys_created_on>
+        <sys_id>626df3175333230030c3ddeeff7b122c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tree_root</sys_name>
+        <sys_package display_value="UX Framework" source="com.glide.uxbuilder">58dc6d21db460010ca6f84da0b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_626df3175333230030c3ddeeff7b122c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-01 01:19:34</sys_updated_on>
+        <table>sys_ux_page_element</table>
+        <ui_policy display_value="Hide Tree Root if Root Elem">7a2d73175333230030c3ddeeff7b12f6</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:02:26</sys_created_on>
+        <sys_id>e381731bdb070010ca6f84da0b96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tree_root</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_e381731bdb070010ca6f84da0b96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:02:26</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

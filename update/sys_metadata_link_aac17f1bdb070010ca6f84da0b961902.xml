@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>940414839f032200ef4afa7dc67fcf41</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>inputs.var__m_atf_input_variable_e00571a10b3222000b7da95e93673a8f.request_body</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-16 22:12:57</sys_created_on>
+        <sys_id>940414839f032200ef4afa7dc67fcf41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inputs.var__m_atf_input_variable_e00571a10b3222000b7da95e93673a8f.request_body</sys_name>
+        <sys_package display_value="Automated Test Framework - REST Inbound" source="com.glide.automated_testing_impl.rest_inbound">ca4c616ddb060010ca6f84da0b96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_940414839f032200ef4afa7dc67fcf41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-16 22:12:57</sys_updated_on>
+        <table>sys_atf_step</table>
+        <ui_policy display_value="Show/hide body">0e024bee9f032200ef4afa7dc67fcf7a</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:28</sys_created_on>
+        <sys_id>aac17f1bdb070010ca6f84da0b961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inputs.var__m_atf_input_variable_e00571a10b3222000b7da95e93673a8f.request_body</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_aac17f1bdb070010ca6f84da0b961902</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:28</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>753284a20a0a0b43008d2307a30ec7ad</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>attributes</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>pat.casey</sys_created_by>
+        <sys_created_on>2009-12-09 20:47:49</sys_created_on>
+        <sys_id>753284a20a0a0b43008d2307a30ec7ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attributes</sys_name>
+        <sys_package display_value="Questionset Plugin" source="com.glideapp.questionset">b4296da5dbc20010ca6f84da0b961943</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_753284a20a0a0b43008d2307a30ec7ad</sys_update_name>
+        <sys_updated_by>pat.casey</sys_updated_by>
+        <sys_updated_on>2009-12-09 20:47:49</sys_updated_on>
+        <table>item_option_new</table>
+        <ui_policy display_value="Show attributes when Type is one of certain values">7531f5d00a0a0b43000cf140d9a2f9db</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:02:51</sys_created_on>
+        <sys_id>d1a1b71bdb070010ca6f84da0b96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attributes</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_d1a1b71bdb070010ca6f84da0b96197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:02:51</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

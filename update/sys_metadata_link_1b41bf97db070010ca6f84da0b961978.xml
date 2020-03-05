@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0eaabf690a0a0b1d006ce30354c8bd7c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>group</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2008-02-12 17:22:03</sys_created_on>
+        <sys_id>0eaabf690a0a0b1d006ce30354c8bd7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>group</sys_name>
+        <sys_package display_value="Subscription Based Notifications" source="com.glide.notification">2a35ada1db020010ca6f84da0b961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0eaabf690a0a0b1d006ce30354c8bd7c</sys_update_name>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2008-02-12 17:22:03</sys_updated_on>
+        <table>cmn_notif_message</table>
+        <ui_policy display_value="Set group visible">0eaa9f0f0a0a0b1d0037ec315555afd5</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:01:20</sys_created_on>
+        <sys_id>1b41bf97db070010ca6f84da0b961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>group</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_1b41bf97db070010ca6f84da0b961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:01:20</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>82b4442fc3613000cef73b251eba8f5f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>mid_hdr_text</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2012-11-12 23:27:21</sys_created_on>
+        <sys_id>82b4442fc3613000cef73b251eba8f5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mid_hdr_text</sys_name>
+        <sys_package display_value="Report - PDF Page Header Footer Templates" source="com.glideapp.report_page_hdrftr">7c892569dbc20010ca6f84da0b9619fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_82b4442fc3613000cef73b251eba8f5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2012-11-12 23:27:21</sys_updated_on>
+        <table>sys_report_page_hdrftr</table>
+        <ui_policy display_value="Show/hide middle header text">fd84042fc3613000cef73b251eba8fb5</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:06</sys_created_on>
+        <sys_id>91b1bb1bdb070010ca6f84da0b961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mid_hdr_text</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_91b1bb1bdb070010ca6f84da0b961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:06</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

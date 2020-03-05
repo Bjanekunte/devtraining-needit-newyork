@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>468ff47553332300099addeeff7b1255</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>action_component</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-23 19:38:45</sys_created_on>
+        <sys_id>468ff47553332300099addeeff7b1255</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>action_component</sys_name>
+        <sys_package display_value="Agent Workspace - Declarative Actions" source="com.snc.agent_workspace.declarative_actions">46eca561db460010ca6f84da0b9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_468ff47553332300099addeeff7b1255</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-23 19:38:45</sys_updated_on>
+        <table>sys_declarative_action_definition</table>
+        <ui_policy display_value="Show / Hide action comonent on action type selection">6d6f347553332300099addeeff7b12a9</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:01:54</sys_created_on>
+        <sys_id>b3617bd7db070010ca6f84da0b961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>action_component</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_b3617bd7db070010ca6f84da0b961923</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:01:54</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

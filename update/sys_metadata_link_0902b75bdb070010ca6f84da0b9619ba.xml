@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ba67dc70536033003e96ddeeff7b125c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>agent_assist_recommendation.table_config.table</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-29 20:57:03</sys_created_on>
+        <sys_id>ba67dc70536033003e96ddeeff7b125c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>agent_assist_recommendation.table_config.table</sys_name>
+        <sys_package display_value="Agent Assist Recommendation" source="sn_agent_recommend">da8f2ef273232300e64cc1f52ff6a78f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent Assist Recommendation">da8f2ef273232300e64cc1f52ff6a78f</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ba67dc70536033003e96ddeeff7b125c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-30 23:16:33</sys_updated_on>
+        <table>trend_recommendation</table>
+        <ui_policy display_value="Table is read-only">17275c70536033003e96ddeeff7b1213</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:27</sys_created_on>
+        <sys_id>0902b75bdb070010ca6f84da0b9619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>agent_assist_recommendation.table_config.table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_0902b75bdb070010ca6f84da0b9619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:27</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

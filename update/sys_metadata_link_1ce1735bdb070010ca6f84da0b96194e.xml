@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a5b13d13c0a80166002123c2b1127a1f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>timeline_page</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2009-09-10 20:42:38</sys_created_on>
+        <sys_id>a5b13d13c0a80166002123c2b1127a1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>timeline_page</sys_name>
+        <sys_package display_value="Advanced Schedules Support" source="com.glide.schedules">b9c8a925dbc20010ca6f84da0b961956</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a5b13d13c0a80166002123c2b1127a1f</sys_update_name>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2009-09-10 20:42:38</sys_updated_on>
+        <table>sys_app_module</table>
+        <ui_policy display_value="Show timeline page when Link type is Timeline Page">a5b0db6dc0a80166004bf4830740035f</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:51</sys_created_on>
+        <sys_id>1ce1735bdb070010ca6f84da0b96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>timeline_page</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_1ce1735bdb070010ca6f84da0b96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:51</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

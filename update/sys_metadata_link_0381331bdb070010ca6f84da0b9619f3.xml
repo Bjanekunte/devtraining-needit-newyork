@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>61279af6c0a801660062e4f92d5d32d1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>dynamic_creation_script</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2007-08-13 21:36:18</sys_created_on>
+        <sys_id>61279af6c0a801660062e4f92d5d32d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>dynamic_creation_script</sys_name>
+        <sys_package display_value="UI Policy Rules" source="com.glide.ui_policy">9bf4a561db020010ca6f84da0b96192b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_61279af6c0a801660062e4f92d5d32d1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-12-30 20:53:49</sys_updated_on>
+        <table>sys_dictionary</table>
+        <ui_policy display_value="Show creation script for dynamic references">61270803c0a8016600f706d55ece3bd5</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:02:24</sys_created_on>
+        <sys_id>0381331bdb070010ca6f84da0b9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dynamic_creation_script</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_0381331bdb070010ca6f84da0b9619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:02:24</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2f3b25529f200200c0f1fc12957fcf52</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>ui_policy_time</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-06-11 21:36:00</sys_created_on>
+        <sys_id>2f3b25529f200200c0f1fc12957fcf52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ui_policy_time</sys_name>
+        <sys_package display_value="Stats Tools" source="com.glide.stats">e6e5a929db020010ca6f84da0b96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_2f3b25529f200200c0f1fc12957fcf52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-06-11 21:36:00</sys_updated_on>
+        <table>sys_transaction_pattern</table>
+        <ui_policy display_value="Hide Empty Client Metrics">896921529f200200c0f1fc12957fcff1</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:01:38</sys_created_on>
+        <sys_id>675137d7db070010ca6f84da0b9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ui_policy_time</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_675137d7db070010ca6f84da0b9619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:01:38</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

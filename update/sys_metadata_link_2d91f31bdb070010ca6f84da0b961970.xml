@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>68c9716c93a30200d8f81f76557ffb53</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>breakdown_level2</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-11-02 15:18:14</sys_created_on>
+        <sys_id>68c9716c93a30200d8f81f76557ffb53</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>breakdown_level2</sys_name>
+        <sys_package display_value="Performance Analytics" source="com.snc.pa">558ba129db060010ca6f84da0b961919</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_68c9716c93a30200d8f81f76557ffb53</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 17:19:45</sys_updated_on>
+        <table>pa_widgets</table>
+        <ui_policy display_value="Mandate 2nd Breakdown for pivot widget">bc89316c93a30200d8f81f76557ffbaa</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:02:35</sys_created_on>
+        <sys_id>2d91f31bdb070010ca6f84da0b961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breakdown_level2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_2d91f31bdb070010ca6f84da0b961970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:02:35</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

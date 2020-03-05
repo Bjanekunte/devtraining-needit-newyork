@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>15531e95c33001008de24a3c5bba8f22</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>workflow_version.stage_order</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>rick.crawford</sys_created_by>
+        <sys_created_on>2013-04-16 23:28:21</sys_created_on>
+        <sys_id>15531e95c33001008de24a3c5bba8f22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workflow_version.stage_order</sys_name>
+        <sys_package display_value="Workflow Authoring Tools" source="com.glideapp.workflow.authoring">a32a292ddbc20010ca6f84da0b9619e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_15531e95c33001008de24a3c5bba8f22</sys_update_name>
+        <sys_updated_by>rick.crawford</sys_updated_by>
+        <sys_updated_on>2013-04-16 23:28:21</sys_updated_on>
+        <table>wf_stage</table>
+        <ui_policy display_value="Hide workflow version stage order field. It is used to control the read-only status of the order field.">0823da95c33001008de24a3c5bba8f90</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:01:23</sys_created_on>
+        <sys_id>c051ff97db070010ca6f84da0b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workflow_version.stage_order</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_c051ff97db070010ca6f84da0b961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:01:23</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

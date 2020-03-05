@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>58b47e990a25810300469dad4262ab9a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>email_suffix</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2007-08-12 06:13:36</sys_created_on>
+        <sys_id>58b47e990a25810300469dad4262ab9a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>email_suffix</sys_name>
+        <sys_package display_value="Subscription Based Notifications" source="com.glide.notification">2a35ada1db020010ca6f84da0b961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_58b47e990a25810300469dad4262ab9a</sys_update_name>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2009-04-05 01:25:08</sys_updated_on>
+        <table>cmn_notif_service_provider</table>
+        <ui_policy display_value="Custom script">58b219bc0a25810300940eab88cc4d88</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:02:14</sys_created_on>
+        <sys_id>2c81ffd7db070010ca6f84da0b961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>email_suffix</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_2c81ffd7db070010ca6f84da0b961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:02:14</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

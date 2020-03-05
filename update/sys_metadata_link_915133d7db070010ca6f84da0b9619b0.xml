@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1f1831677f6702005f58108c3ffa91bf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>notification.collection</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-11-11 22:52:54</sys_created_on>
+        <sys_id>1f1831677f6702005f58108c3ffa91bf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>notification.collection</sys_name>
+        <sys_package display_value="Subscription Based Notifications 2.0" source="com.glide.notification.subscription">b33521e1db020010ca6f84da0b96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_1f1831677f6702005f58108c3ffa91bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-11-11 22:54:56</sys_updated_on>
+        <table>sys_notif_subscription</table>
+        <ui_policy display_value="Don't allow edit of Notification.Table (collection)">93e731677f6702005f58108c3ffa9148</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:01:28</sys_created_on>
+        <sys_id>915133d7db070010ca6f84da0b9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>notification.collection</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_915133d7db070010ca6f84da0b9619b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:01:28</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7bc77f376702030091d005225685efd3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>first_failing_client_error</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-02 21:59:32</sys_created_on>
+        <sys_id>7bc77f376702030091d005225685efd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>first_failing_client_error</sys_name>
+        <sys_package display_value="Automated Test Framework" source="com.glide.automated_testing_framework">a3fa2925db060010ca6f84da0b96194b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7bc77f376702030091d005225685efd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-02 21:59:32</sys_updated_on>
+        <table>sys_atf_test_result</table>
+        <ui_policy display_value="hide 'first_failing_client_error' field when empty">3487f7376702030091d005225685ef42</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:02:59</sys_created_on>
+        <sys_id>23a1f71bdb070010ca6f84da0b9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>first_failing_client_error</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_23a1f71bdb070010ca6f84da0b9619b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:02:59</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

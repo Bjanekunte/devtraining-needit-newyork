@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7f505423bf10110032a0854b3f073984</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>breakdown_source</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2013-10-14 13:21:44</sys_created_on>
+        <sys_id>7f505423bf10110032a0854b3f073984</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>breakdown_source</sys_name>
+        <sys_package display_value="Performance Analytics" source="com.snc.pa">558ba129db060010ca6f84da0b961919</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7f505423bf10110032a0854b3f073984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-06-05 00:41:14</sys_updated_on>
+        <table>pa_dashboards</table>
+        <ui_policy display_value="Always hide deprecated fields">37505423bf10110032a0854b3f073984</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:03</sys_created_on>
+        <sys_id>e8b17b1bdb070010ca6f84da0b961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breakdown_source</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_e8b17b1bdb070010ca6f84da0b961912</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:03</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

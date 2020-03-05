@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>163e66b40a0a0b777aa9b3bfe22ea925</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field>sort_by_order</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>mark.johnson</sys_created_by>
+        <sys_created_on>2010-07-27 23:30:54</sys_created_on>
+        <sys_id>163e66b40a0a0b777aa9b3bfe22ea925</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sort_by_order</sys_name>
+        <sys_package display_value="Advanced Schedules Support" source="com.glide.schedules">b9c8a925dbc20010ca6f84da0b961956</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_163e66b40a0a0b777aa9b3bfe22ea925</sys_update_name>
+        <sys_updated_by>mark.johnson</sys_updated_by>
+        <sys_updated_on>2010-07-27 23:39:48</sys_updated_on>
+        <table>cmn_timeline_page</table>
+        <ui_policy display_value="Make sort by and sort by order mandatory when Perform custom sort is true">162715010a0a0b776203f5b89688297e</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:01:23</sys_created_on>
+        <sys_id>8051ff97db070010ca6f84da0b96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sort_by_order</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_8051ff97db070010ca6f84da0b96194f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:01:23</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

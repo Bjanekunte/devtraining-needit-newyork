@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c42e8652c302210066523b251eba8f7a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>is_capped</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-02 04:00:54</sys_created_on>
+        <sys_id>c42e8652c302210066523b251eba8f7a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>is_capped</sys_name>
+        <sys_package display_value="Subscription Administration Base" source="com.snc.usage_admin.base">4f3bad65db060010ca6f84da0b96198f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c42e8652c302210066523b251eba8f7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-02 04:02:58</sys_updated_on>
+        <table>license_details</table>
+        <ui_policy display_value="Show Cap subscription and auto sync only for Per User subscriptions which are not display only">40ed4652c302210066523b251eba8ff5</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:42</sys_created_on>
+        <sys_id>64127b5bdb070010ca6f84da0b9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>is_capped</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_64127b5bdb070010ca6f84da0b9619a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:42</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

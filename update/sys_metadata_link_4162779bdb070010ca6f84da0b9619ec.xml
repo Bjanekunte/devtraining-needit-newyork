@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f1c0beb41b10200000009141be07134c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>scp_user_name</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2012-02-17 23:23:53</sys_created_on>
+        <sys_id>f1c0beb41b10200000009141be07134c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scp_user_name</sys_name>
+        <sys_package display_value="System Import Data Source" source="com.glide.system_import_data_source">af85ad65db020010ca6f84da0b96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f1c0beb41b10200000009141be07134c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2012-02-17 23:23:53</sys_updated_on>
+        <table>sys_data_source</table>
+        <ui_policy display_value="File retrieval method is in (FTP,HTTP)">98a86a741b10200000009141be071363</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:06:06</sys_created_on>
+        <sys_id>4162779bdb070010ca6f84da0b9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scp_user_name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_4162779bdb070010ca6f84da0b9619ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:06:06</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

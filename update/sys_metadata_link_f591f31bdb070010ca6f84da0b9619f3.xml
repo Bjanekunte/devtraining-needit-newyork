@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6985a0ca9f10120066dabde8132e702f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>parent</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-14 07:49:32</sys_created_on>
+        <sys_id>6985a0ca9f10120066dabde8132e702f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>parent</sys_name>
+        <sys_package display_value="Guided Setup" source="sn_guided_setup">5f4ef4ed9f401200b18a7feea57fcfbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guided Setup">5f4ef4ed9f401200b18a7feea57fcfbe</sys_scope>
+        <sys_update_name>sys_ui_policy_action_6985a0ca9f10120066dabde8132e702f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-14 07:49:32</sys_updated_on>
+        <table>gsw_content_group</table>
+        <ui_policy display_value="Hide read-only fields for non-root groups">14734c019f33020066dabde8132e70b4</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:02:36</sys_created_on>
+        <sys_id>f591f31bdb070010ca6f84da0b9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>parent</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_f591f31bdb070010ca6f84da0b9619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:02:36</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

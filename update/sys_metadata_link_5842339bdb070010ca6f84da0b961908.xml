@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>dc7b86b68f51020020c128e377e79a75</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>delta_export_status</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-07-20 20:00:23</sys_created_on>
+        <sys_id>dc7b86b68f51020020c128e377e79a75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>delta_export_status</sys_name>
+        <sys_package display_value="Basic Export Set Functionality" source="com.glide.system_export_set">e34a696ddbc20010ca6f84da0b96198c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_dc7b86b68f51020020c128e377e79a75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-07-20 20:00:23</sys_updated_on>
+        <table>sys_export_set_run</table>
+        <ui_policy display_value="Show Delta export related fields">605b86b68f51020020c128e377e79a29</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:05:30</sys_created_on>
+        <sys_id>5842339bdb070010ca6f84da0b961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>delta_export_status</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_5842339bdb070010ca6f84da0b961908</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:05:30</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

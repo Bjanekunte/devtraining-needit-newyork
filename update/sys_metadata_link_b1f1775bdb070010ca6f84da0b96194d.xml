@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b2f67664b3533200350086d256a8dc91</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>use_mid</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-08 22:03:24</sys_created_on>
+        <sys_id>b2f67664b3533200350086d256a8dc91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>use_mid</sys_name>
+        <sys_package display_value="Centralized Connection and Credential" source="com.snc.core.automation.connection_credential">7d59a129dbc20010ca6f84da0b96196d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b2f67664b3533200350086d256a8dc91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-08 22:03:24</sys_updated_on>
+        <table>orch_jms_ds</table>
+        <ui_policy display_value="Set connection retries, timeout and use mid server fields read only">09b819a1d72032001f7d60affd61032f</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:14</sys_created_on>
+        <sys_id>b1f1775bdb070010ca6f84da0b96194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>use_mid</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_b1f1775bdb070010ca6f84da0b96194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:14</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

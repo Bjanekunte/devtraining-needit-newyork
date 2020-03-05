@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cd24c8103711210066512f3c8e41f161</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>update_access</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2014-06-09 23:22:39</sys_created_on>
+        <sys_id>cd24c8103711210066512f3c8e41f161</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>update_access</sys_name>
+        <sys_package display_value="System Applications Core" source="com.snc.apps">57552125db020010ca6f84da0b961981</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_cd24c8103711210066512f3c8e41f161</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2014-06-09 23:22:39</sys_updated_on>
+        <table>sys_db_object</table>
+        <ui_policy display_value="Disable access fields if private (read access is false).">2a9467433701210066512f3c8e41f190</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:57</sys_created_on>
+        <sys_id>d422fb5bdb070010ca6f84da0b961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>update_access</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_d422fb5bdb070010ca6f84da0b961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:57</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

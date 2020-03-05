@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c899f9413b233200c869c2c703efc401</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>weight</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-22 17:07:37</sys_created_on>
+        <sys_id>c899f9413b233200c869c2c703efc401</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>weight</sys_name>
+        <sys_package display_value="Outbound Email Notifications" source="com.glide.email_outbound">f645a5e1db020010ca6f84da0b96198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_c899f9413b233200c869c2c703efc401</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-22 17:07:37</sys_updated_on>
+        <table>sysevent_email_action</table>
+        <ui_policy display_value="Event generation (Global)">ecfe71219740200031af390ddd297599</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:49</sys_created_on>
+        <sys_id>5e12bb5bdb070010ca6f84da0b961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>weight</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_5e12bb5bdb070010ca6f84da0b961970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:49</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

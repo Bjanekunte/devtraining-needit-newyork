@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a7521f7537a30200b5b86e17be41f12d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>licensable</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-11-06 18:57:28</sys_created_on>
+        <sys_id>a7521f7537a30200b5b86e17be41f12d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>licensable</sys_name>
+        <sys_package display_value="Subscription Management and Enforcement Framework" source="com.glide.subscription_framework">dae56929db020010ca6f84da0b9619d2</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a7521f7537a30200b5b86e17be41f12d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-11-06 18:57:28</sys_updated_on>
+        <table>sys_package</table>
+        <ui_policy display_value="Cannot edit package licensable/trackable fields&#10;&#9;&#9;">6f521f7537a30200b5b86e17be41f12c</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:54</sys_created_on>
+        <sys_id>38e1735bdb070010ca6f84da0b961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>licensable</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_38e1735bdb070010ca6f84da0b961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:54</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

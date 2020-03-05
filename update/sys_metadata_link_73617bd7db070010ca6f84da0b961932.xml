@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>474827c35b301200656847cc11f91a13</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>assignable_by</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-01-11 21:04:26</sys_created_on>
+        <sys_id>474827c35b301200656847cc11f91a13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assignable_by</sys_name>
+        <sys_package display_value="High Security Settings" source="com.glide.high_security">225a21addbc20010ca6f84da0b961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_474827c35b301200656847cc11f91a13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-01-11 21:04:26</sys_updated_on>
+        <table>sys_user_role</table>
+        <ui_policy display_value="Show suffix and assignable fields by when scoped application">15091873c3432100b9e7ff9c02d3aec0</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:01:55</sys_created_on>
+        <sys_id>73617bd7db070010ca6f84da0b961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assignable_by</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_73617bd7db070010ca6f84da0b961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:01:55</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

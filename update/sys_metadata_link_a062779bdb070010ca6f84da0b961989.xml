@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>efe12f17b7171300616ceb67ee11a995</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>jwt_provider</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 06:36:42</sys_created_on>
+        <sys_id>efe12f17b7171300616ceb67ee11a995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jwt_provider</sys_name>
+        <sys_package display_value="OAuth 2.0" source="com.snc.platform.security.oauth">92756565db020010ca6f84da0b961951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_efe12f17b7171300616ceb67ee11a995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 06:36:42</sys_updated_on>
+        <table>oauth_entity_profile</table>
+        <ui_policy display_value="Show Jwt_Provider  field when Grant_Type is JWT_Bearer">cf3f17d3b7171300616ceb67ee11a9e6</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:06:03</sys_created_on>
+        <sys_id>a062779bdb070010ca6f84da0b961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jwt_provider</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_a062779bdb070010ca6f84da0b961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:06:03</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b0a34f32933231002c68530b547ffbbf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>mandatory</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-03-18 17:28:58</sys_created_on>
+        <sys_id>b0a34f32933231002c68530b547ffbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mandatory</sys_name>
+        <sys_package display_value="Assessment" source="com.snc.assessment_core">f909e1a5dbc20010ca6f84da0b9619b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b0a34f32933231002c68530b547ffbbf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-03-18 17:28:58</sys_updated_on>
+        <table>assessment_question</table>
+        <ui_policy display_value="Hide mandatory for checkbox questions">29424b32933231002c68530b547ffb56</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:11</sys_created_on>
+        <sys_id>89f1375bdb070010ca6f84da0b9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mandatory</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_89f1375bdb070010ca6f84da0b9619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:11</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

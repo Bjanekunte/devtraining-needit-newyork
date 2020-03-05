@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>96f906b9d7902200f913ce737e6103d1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>treemap_max_color</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-29 16:39:54</sys_created_on>
+        <sys_id>96f906b9d7902200f913ce737e6103d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>treemap_max_color</sys_name>
+        <sys_package display_value="Performance Analytics" source="com.snc.pa">558ba129db060010ca6f84da0b961919</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_96f906b9d7902200f913ce737e6103d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-29 16:39:54</sys_updated_on>
+        <table>pa_widgets</table>
+        <ui_policy display_value="Show positive color, coloring method for treemap only">0aac849293231200d8f81f76557ffb3d</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:31</sys_created_on>
+        <sys_id>5fc17f1bdb070010ca6f84da0b961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>treemap_max_color</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_5fc17f1bdb070010ca6f84da0b961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:31</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

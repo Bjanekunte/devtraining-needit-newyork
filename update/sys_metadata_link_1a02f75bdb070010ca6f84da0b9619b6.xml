@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bd7e52745732030096c33da73d94f9b6</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>share_roles</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-30 14:35:05</sys_created_on>
+        <sys_id>bd7e52745732030096c33da73d94f9b6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>share_roles</sys_name>
+        <sys_package display_value="Change Management - Change Schedule" source="sn_chg_soc">cdcf033467020300b410afa00585ef2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Change Management - Change Schedule">cdcf033467020300b410afa00585ef2b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_bd7e52745732030096c33da73d94f9b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-06 19:25:48</sys_updated_on>
+        <table>chg_soc_definition</table>
+        <ui_policy display_value="Hide share users, groups and roles if share with everyone">5191c6a05732030096c33da73d94f951</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:32</sys_created_on>
+        <sys_id>1a02f75bdb070010ca6f84da0b9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>share_roles</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_1a02f75bdb070010ca6f84da0b9619b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:32</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

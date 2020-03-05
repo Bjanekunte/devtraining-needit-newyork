@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4be48a2547801200e0ef563dbb9a714a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="New Hire">6690750f4f7b4200086eeed18110c761</catalog_item>
+        <catalog_variable>IO:69e256074fbb4200086eeed18110c7c9</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order/>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-11-30 15:12:17</sys_created_on>
+        <sys_id>4be48a2547801200e0ef563dbb9a714a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile_device_type</sys_name>
+        <sys_package display_value="Service Catalog core applications" source="com.glideapp.servicecatalog">ae3aad2ddbc20010ca6f84da0b961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_4be48a2547801200e0ef563dbb9a714a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-11-30 15:12:17</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Device Type and other attributes&#10;&#9;&#9;">9024b54f4f7b4200086eeed18110c720</ui_policy>
+        <variable>mobile_device_type</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:02:00</sys_created_on>
+        <sys_id>4171bbd7db070010ca6f84da0b961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_4171bbd7db070010ca6f84da0b961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:02:00</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>da71f1aac30211003d2ae219cdba8f4f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>recurring_cost</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>chris.henson</sys_created_by>
+        <sys_created_on>2014-01-06 17:42:08</sys_created_on>
+        <sys_id>da71f1aac30211003d2ae219cdba8f4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>recurring_cost</sys_name>
+        <sys_package display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">53b9a5a9dbc20010ca6f84da0b96191b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_da71f1aac30211003d2ae219cdba8f4f</sys_update_name>
+        <sys_updated_by>chris.henson</sys_updated_by>
+        <sys_updated_on>2014-01-06 17:42:08</sys_updated_on>
+        <table>sc_ic_question</table>
+        <ui_policy display_value="">7b31b1aac30211003d2ae219cdba8f95</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:05:26</sys_created_on>
+        <sys_id>2b32ff5bdb070010ca6f84da0b96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>recurring_cost</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_2b32ff5bdb070010ca6f84da0b96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:05:26</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

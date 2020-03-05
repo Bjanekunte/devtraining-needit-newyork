@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>a47596c887412300fcc29e1836cb0b51</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>to_milli</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-04 22:32:28</sys_created_on>
+        <sys_id>a47596c887412300fcc29e1836cb0b51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>to_milli</sys_name>
+        <sys_package display_value="Transformation Service" source="com.glide.transform">f80d21a1db460010ca6f84da0b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a47596c887412300fcc29e1836cb0b51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-04 22:32:28</sys_updated_on>
+        <table>sys_duration_conversion_adapter_rule</table>
+        <ui_policy display_value="Hide to-milliseconds field">521516c887412300fcc29e1836cb0b1b</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:49</sys_created_on>
+        <sys_id>f7d1335bdb070010ca6f84da0b9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>to_milli</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_f7d1335bdb070010ca6f84da0b9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:49</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8defeca773032300e64cc1f52ff6a76b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>common_field</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-22 22:12:39</sys_created_on>
+        <sys_id>8defeca773032300e64cc1f52ff6a76b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>common_field</sys_name>
+        <sys_package display_value="Similarity Analyzer" source="sn_intel_analyzer">c3354d2f73032300e64cc1f52ff6a7c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Similarity Analyzer">c3354d2f73032300e64cc1f52ff6a7c7</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8defeca773032300e64cc1f52ff6a76b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-22 22:12:39</sys_updated_on>
+        <table>trend_definition</table>
+        <ui_policy display_value="Trend type - common value">f6bf6ca773032300e64cc1f52ff6a7d8</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:19</sys_created_on>
+        <sys_id>94c1fb1bdb070010ca6f84da0b9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>common_field</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_94c1fb1bdb070010ca6f84da0b9619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:19</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d7544140d7133100a9ad1e173e24d478</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Apple iPhone 6s">d0b15e33d7033100a9ad1e173e24d49e</catalog_item>
+        <catalog_variable>IO:fb040140d7133100a9ad1e173e24d4c3</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order/>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-04-03 15:40:59</sys_created_on>
+        <sys_id>d7544140d7133100a9ad1e173e24d478</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>originalnumber</sys_name>
+        <sys_package display_value="Service Portal for Enterprise Service Management" source="com.glide.service-portal.esm">63fa2925db060010ca6f84da0b961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d7544140d7133100a9ad1e173e24d478</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-04-03 15:40:59</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Original Number">48444140d7133100a9ad1e173e24d43a</ui_policy>
+        <variable>originalnumber</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:05:19</sys_created_on>
+        <sys_id>3532bf5bdb070010ca6f84da0b9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_3532bf5bdb070010ca6f84da0b9619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:05:19</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

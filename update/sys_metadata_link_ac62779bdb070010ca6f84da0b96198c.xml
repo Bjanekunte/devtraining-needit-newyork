@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f0032dc0873b03005d90bba826cb0b2b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>show_on_new</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2018-01-16 19:22:10</sys_created_on>
+        <sys_id>f0032dc0873b03005d90bba826cb0b2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>show_on_new</sys_name>
+        <sys_package display_value="Contextual Search" source="com.snc.contextual_search">a1aa6161db060010ca6f84da0b96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f0032dc0873b03005d90bba826cb0b2b</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2018-01-16 19:22:10</sys_updated_on>
+        <table>cxs_ui_action_config</table>
+        <ui_policy display_value="hide show on new field for order action">12a2a9c0873b03005d90bba826cb0b8a</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:06:04</sys_created_on>
+        <sys_id>ac62779bdb070010ca6f84da0b96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>show_on_new</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_ac62779bdb070010ca6f84da0b96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:06:04</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

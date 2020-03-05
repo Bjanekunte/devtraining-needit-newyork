@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>9bbce7eb732213004030e67bcaf6a7a9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>fragment</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-13 19:15:51</sys_created_on>
+        <sys_id>9bbce7eb732213004030e67bcaf6a7a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fragment</sys_name>
+        <sys_package display_value="Embedded Help" source="com.glide.embedded_help">aacb2d69db060010ca6f84da0b961954</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_9bbce7eb732213004030e67bcaf6a7a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-13 19:15:51</sys_updated_on>
+        <table>sys_embedded_help_qualifier</table>
+        <ui_policy display_value="Toggle Fragment field mandatory">99a7af6b732213004030e67bcaf6a7dc</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:37</sys_created_on>
+        <sys_id>b8d1ff1bdb070010ca6f84da0b961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fragment</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_b8d1ff1bdb070010ca6f84da0b961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:37</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

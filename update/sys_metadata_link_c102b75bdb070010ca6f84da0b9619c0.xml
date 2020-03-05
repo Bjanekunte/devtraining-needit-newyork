@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>baceb0aa87901300d99a8467a7cb0b63</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>conditions</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-18 07:40:01</sys_created_on>
+        <sys_id>baceb0aa87901300d99a8467a7cb0b63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>conditions</sys_name>
+        <sys_package display_value="Targeted Communications" source="sn_publications">0fdd6483d72302004f1e82285e61033a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Targeted Communications">0fdd6483d72302004f1e82285e61033a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_baceb0aa87901300d99a8467a7cb0b63</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-18 07:40:01</sys_updated_on>
+        <table>sn_publications_recipients_list</table>
+        <ui_policy display_value="Show/hide fields when upload method is selected">7e5e30aa87901300d99a8467a7cb0b4e</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:28</sys_created_on>
+        <sys_id>c102b75bdb070010ca6f84da0b9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>conditions</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_c102b75bdb070010ca6f84da0b9619c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:28</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

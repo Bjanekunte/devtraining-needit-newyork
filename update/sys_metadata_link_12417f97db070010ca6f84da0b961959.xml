@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>06a82e02c3102000b959fd251eba8f56</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>allow_pre_allocation</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2012-02-21 20:01:38</sys_created_on>
+        <sys_id>06a82e02c3102000b959fd251eba8f56</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>allow_pre_allocation</sys_name>
+        <sys_package display_value="Model Management" source="com.snc.model">6ef5e169db020010ca6f84da0b9619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_06a82e02c3102000b959fd251eba8f56</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2013-12-19 13:20:32</sys_updated_on>
+        <table>cmdb_model_category</table>
+        <ui_policy display_value="Lock fields for Contract and Work">6a97aa02c3102000b959fd251eba8f82</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:01:16</sys_created_on>
+        <sys_id>12417f97db070010ca6f84da0b961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>allow_pre_allocation</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_12417f97db070010ca6f84da0b961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:01:16</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>93fda03cc0a8016800a5ace0daea0872</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>condition</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>glide.james</sys_created_by>
+        <sys_created_on>2010-10-10 02:35:01</sys_created_on>
+        <sys_id>93fda03cc0a8016800a5ace0daea0872</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>condition</sys_name>
+        <sys_package display_value="Automated Action Interface" source="com.snc.automation">b025a1a1db020010ca6f84da0b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_93fda03cc0a8016800a5ace0daea0872</sys_update_name>
+        <sys_updated_by>glide.james</sys_updated_by>
+        <sys_updated_on>2010-10-10 02:35:01</sys_updated_on>
+        <table>sysauto</table>
+        <ui_policy display_value="Show condition when Conditional is true">93fd926fc0a8016801c0bfa46f876e80</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:03:28</sys_created_on>
+        <sys_id>eac17f1bdb070010ca6f84da0b961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>condition</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_eac17f1bdb070010ca6f84da0b961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:03:28</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>

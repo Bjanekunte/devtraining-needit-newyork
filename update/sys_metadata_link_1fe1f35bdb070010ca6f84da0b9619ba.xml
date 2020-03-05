@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ad6bd111a7120000dada192bd9acf43e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>link_roles</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>jay.berlin</sys_created_by>
+        <sys_created_on>2011-04-27 00:13:47</sys_created_on>
+        <sys_id>ad6bd111a7120000dada192bd9acf43e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>link_roles</sys_name>
+        <sys_package display_value="Editor for saving related list edits with the form" source="com.glide.ui_list_edit_with_form">f5356da1db020010ca6f84da0b961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ad6bd111a7120000dada192bd9acf43e</sys_update_name>
+        <sys_updated_by>jay.berlin</sys_updated_by>
+        <sys_updated_on>2011-04-27 00:13:47</sys_updated_on>
+        <table>sys_ui_list_control_embedded</table>
+        <ui_policy display_value="Show link roles when Omit links is false">e06bd111a7120000dada192bd9acf4aa</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 10:04:04</sys_created_on>
+        <sys_id>1fe1f35bdb070010ca6f84da0b9619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>link_roles</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_1fe1f35bdb070010ca6f84da0b9619ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 10:04:04</sys_updated_on>
+        <tablename>sys_ui_policy_action</tablename>
+    </sys_metadata_link>
+</record_update>
